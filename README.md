@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/biebettes/blog-preview-card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://biebettes.github.io/blog-preview-card/)
 
 ## My process
 
@@ -69,6 +69,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@biebettes](https://www.frontendmentor.io/profile/biebettes)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
